@@ -1,4 +1,4 @@
-part of 'weather_bloc.dart';
+part of 'weather_cubit.dart';
 
 @immutable
 abstract class WeatherState {
